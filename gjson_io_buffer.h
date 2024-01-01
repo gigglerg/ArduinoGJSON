@@ -431,7 +431,7 @@ public:
     }
 
 protected:
-    uint16_t    length_;                    ///< Length of buffer, Characters.  Has to be less than equal to \ref max_length_
+    uint16_t    length_;                    ///< Length of buffer, Characters.  Has to be less than equal to \see BL
     char        buffer_[BL];                ///< Character buffer
 }; // class Buffer
 

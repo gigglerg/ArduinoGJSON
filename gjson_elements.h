@@ -248,7 +248,7 @@ public:
 	 * \attention Care should be taken that the string buffer size is enough for conversion
 	 *
 	 * \param[in] d  Data to convert
-	 * \parampin] format \ref sprintf format string
+	 * \param[in] format same as sprintf format string
      * \param[in] prefer_literal Prefer Literal flag, indicates data string contains a JSON literal value, default true
      * \param[in] allow_exponent Allow use of literal exponent values, default GJSON_DEFAULT_EXPONENTIAL_NOTATION
      * \tparam DT Data type
