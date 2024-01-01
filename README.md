@@ -11,7 +11,7 @@ option but should be enough to get you started on your journey.
 
 [License: GPL2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-I can't force you, but if your work is part of a commerical project or product, please consider a proportional donation to [The Oxford Foodbank](http://oxfordfoodbank.org/support-us/make-a-donation/)
+I can't force you, but if your work is part of a commerical project or product, please consider a proportional donation to [Abingdon Fridge](https://chuffed.org/project/105084-running-costs) or [The Oxford Foodbank](http://oxfordfoodbank.org/support-us/make-a-donation/)
 
 
 ## Using the library
