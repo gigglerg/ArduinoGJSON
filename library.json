@@ -1,0 +1,17 @@
+{
+  "name": "GJSON",
+  "description": "JSON C++ parser and builder library (portable)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/gigglerg/ArduinoGJSON"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "stm32",
+    "91sam",
+    "at91sam"
+  ]
+}
